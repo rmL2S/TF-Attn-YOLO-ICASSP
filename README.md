@@ -15,7 +15,7 @@ Conventional spectrograms face a time–frequency trade-off:
 2. Leveraging **multi-resolution spectrograms** processed jointly, mitigating the Heisenberg trade-off.  
 3. Providing both **signal detection and characterization** (time of arrival, duration, bandwidth, carrier frequency).
 
-If you use this code, please cite our ICASSP 2025 paper:
+If you use this code, please cite our ICASSP 2026 paper:
 @inproceedings{mazouz2025tfattnyolo,
   title     = {Multi-Resolution Spectrograms Detection of LPI RADAR with Time-Frequency Attention augmented YOLO},
   author    = {Mazouz, Reihan and Taylor, Abigael and Picheral, José and Bosse, Jonathan and Marcos, Sylvie and Belafdil, Chakib},
