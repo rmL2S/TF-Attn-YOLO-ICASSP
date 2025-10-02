@@ -28,7 +28,7 @@ This trade-off limits radar signal detection in real-world congested environment
 ## 🔹 Features
 
 - ✅ Multi-resolution spectrogram processing  
-- ✅ TF-Attn blocks integrated into YOLO backbone/head  
+- ✅ TF-Attn blocks integrated into YOLO  
 - ✅ Support for **uniresolution** and **multi-resolution** datasets (`.pt` tensors)  
 - ✅ Minimal training & prediction scripts (`examples/`)  
 - ✅ Dataset generation utilities (`dataset/`)  
