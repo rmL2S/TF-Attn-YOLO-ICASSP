@@ -87,7 +87,7 @@ If you use this repository, please cite our **ICASSP 2026** paper:
   title     = {Multi-Resolution Spectrograms Detection of LPI RADAR with Time-Frequency Attention augmented YOLO},
   author    = {Mazouz, Reihan and Taylor, Abigael and Picheral, José and Bosse, Jonathan and Marcos, Sylvie and Belafdil, Chakib},
   booktitle = {ICASSP},
-  year      = {2025}
+  year      = {2026}
 }
 ```
 
